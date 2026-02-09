@@ -9,7 +9,6 @@ Sou desenvolvedor focado em **.NET** e apaixonado por tecnologia, sempre buscand
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alexandre-7731423a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luke.devcsharp@gmail.com)
 
----
 
 ## 💻 Tecnologias que utilizo
 
@@ -21,7 +20,6 @@ Sou desenvolvedor focado em **.NET** e apaixonado por tecnologia, sempre buscand
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
----
 
 ### ⚙️ Back-end
 <div style="display: inline_block">
@@ -29,22 +27,19 @@ Sou desenvolvedor focado em **.NET** e apaixonado por tecnologia, sempre buscand
   <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
----
-
 ### 🗄️ Banco de Dados
 <div style="display: inline_block">
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
----
-
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas & Analytics
 <div style="display: inline_block">
   <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align="center" alt="VBA" src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft-vba&logoColor=white"/>
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black"/>
 </div>
-
----
 
 ⭐ Sempre aberto a aprender, evoluir e encarar novos desafios!
